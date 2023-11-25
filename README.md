@@ -22,3 +22,5 @@ Crtitério do Jogo:
 
 ![Imagem do WhatsApp de 2023-11-25 à(s) 02 04 58_1ca320eb](https://github.com/Lauriany-Campos/gamezombie/assets/89173361/a227bcd5-c6d5-4b5e-a754-69b806be3d1e)
 
+Vídeo: https://drive.google.com/file/d/1TvsPnbUYU-V7DZevNqEXYa4ZwoBTt4ex/view?usp=sharing 
+
