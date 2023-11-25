@@ -1,6 +1,8 @@
 # Game Zombie
 Entrega do Jogo Finalizado 
 
+![Imagem do WhatsApp de 2023-11-25 à(s) 02 25 29_7d4cc549](https://github.com/Lauriany-Campos/gamezombie/assets/89173361/1832b3f4-a869-47d4-b3cb-7d66ebe4070d)
+
 Crtitério do Jogo:
 
 1. Ao passar sobre o taco de baseball, o personagem deve automaticamente segurá-lo.
