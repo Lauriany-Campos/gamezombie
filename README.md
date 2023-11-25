@@ -1,4 +1,4 @@
-# gamezombie
+# Game Zombie
 Entrega do Jogo Finalizado 
 
 Crtitério do Jogo:
